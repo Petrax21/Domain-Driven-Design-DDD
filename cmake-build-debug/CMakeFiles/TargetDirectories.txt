@@ -1,0 +1,3 @@
+/home/mustafa/CLionProjects/MySQL-Webview-Telefon-Rehber/cmake-build-debug/CMakeFiles/webview-sample.dir
+/home/mustafa/CLionProjects/MySQL-Webview-Telefon-Rehber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mustafa/CLionProjects/MySQL-Webview-Telefon-Rehber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
